@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-dzxv4s.hsteamid.com/sitemap.xml
